@@ -2,4 +2,11 @@ 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
 
 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
 
+
 https://github.com/Unknow2N/gittest2.git
+
+git@github.com:Unknow2N/gittest2.git
+
+
+настройка ssh ключа в git -> https://bogdanov-blog.ru/generatsiya-ssh-klyuchej-dlya-github/
+
